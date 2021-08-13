@@ -141,7 +141,7 @@
   }
 
 section {
-    border: 1px solid black;
+    border: 3px solid black;
     background-color:grey;
     width: 95%;
     color: black;
@@ -155,6 +155,8 @@ section {
     top: 0;
     right: 0;
     font-weight: bold;
+    margin:0;
+    padding:0;
     
 }
 
